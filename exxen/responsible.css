@@ -1,0 +1,16 @@
+@media screen and (max-width: 768px) {
+
+    .navbar{
+        height: 10vh;
+    }
+
+    .navbar .navbar-exxen-img{
+        width: 50px;
+    }
+
+    .navbar .navbar-exxen-membership a,
+    .navbar-sign-in a {
+        padding: 6px 8px;
+        font-size: 10px;
+    }
+}
